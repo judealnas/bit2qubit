@@ -1,0 +1,9 @@
+name: bit2qubit
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.13
+    - manim
+    - ipykernel
+    - jupytext
